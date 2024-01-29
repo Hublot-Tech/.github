@@ -27,16 +27,20 @@
   - Choose a service
   - Add preferences (date, time, location, etc.)
   - Confirm an order (provider)
-  - Cancel an order (service not confirmed)
+  - Cancel an order (offer not confirmed)
   - Configure payment installments
   - Search for services (proximity, etc.)
+  - Pay (after client confirming the offer)
+  - follow up service completion
+    - change completion state (provider)
+    - see level of completion
+  - confirm service delivery  
 - Get in touch
   - Send a message
   - Receive a message
   - Send a confirmation voucher (WhatsApp)
   - Confirm the offer (WhatsApp)
 - Authenticate (WhatsApp)
-- Pay
 - Notify the client via WhatsApp (system):
   - Start of service
   - Arrival of the provider
@@ -44,6 +48,10 @@
 - Report a problem
 - Customize offers (system)
 - Contact customer service
+- Spare part marketplace
+  - Browse spare parts (New & Old)
+  - Buy spare part
+  - Manage  spare part (pathner)
 ### What's a service
 To define the basic properties of a service in an on-demand service application, we will use the following elements:
 - **Service Name:** A name of fewer than 75 characters.

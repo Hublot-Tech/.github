@@ -59,3 +59,6 @@ To define the basic properties of a service in an on-demand service application,
 - **Categorization:** Services should be categorized into specific categories or types to facilitate user search and navigation.
 - **Pricing:** Service rates, including base costs, any additional fees (spare parts, required work materials, etc.), and accepted payment methods (full payment upfront or after completing a specific stage).
 - **Availability:** Service hours and availability, as well as any geographical restrictions (to be specified during provider registration).
+## General use case Diagram
+![image](https://github.com/Hublot-Tech/.github/assets/61763373/b0dff5cf-c463-4f15-bd5d-9195a6ef989a)
+
